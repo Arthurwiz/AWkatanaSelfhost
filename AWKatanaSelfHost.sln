@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWKatanaSelfHost", "AWKatanaSelfHost\AWKatanaSelfHost.csproj", "{9C150CF5-C36E-45D0-BCE0-EA0B8E4840BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C150CF5-C36E-45D0-BCE0-EA0B8E4840BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C150CF5-C36E-45D0-BCE0-EA0B8E4840BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C150CF5-C36E-45D0-BCE0-EA0B8E4840BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C150CF5-C36E-45D0-BCE0-EA0B8E4840BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
